@@ -95,7 +95,7 @@ python main.py
 | 김형진 | Document Classification Developer | @MaDoKaLiF |
 | 이준찬 | DataBase Administrator | @gamma4638 |
 | 장재인 | Language Model Engineer | @Jaein-Jang |
-| 최서영 | Project Manager | @github_handle |
+| 최서영 | Project Manager | @choi613504 |
 
 ## ⏰ Development Period
 Last updated: 2025-04-05
