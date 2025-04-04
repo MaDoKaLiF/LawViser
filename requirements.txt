@@ -1,0 +1,36 @@
+# requirements.txt
+# List of dependencies for the RAG project in a Python 3.10 environment
+
+# Core AI / NLP Libraries
+transformers
+torch
+datasets
+faiss-cpu
+nltk
+
+# Embedding & Search
+keybert
+langchain
+
+# Evaluation
+ragas
+
+# DB & Utility
+pymongo
+tqdm
+numpy
+
+# LLM Quantization and Performance Optimization
+bitsandbytes
+accelerate
+peft
+
+# Hugging Face Authentication and Model Download
+huggingface_hub
+
+# nlpai-lab/KURE-v1 Embedding Model
+sentence-transformers
+
+vllm
+more-itertools
+streamlit
