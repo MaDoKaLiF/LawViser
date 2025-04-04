@@ -66,7 +66,7 @@ AGI-Hackathon/
 ## 🔧 Setup & Installation
 ```bash
 # Clone the repository
-git clone https://github.com/UpstageAI/cookbook/usecase/agi-agent-application/ai-terms-analyzer.git
+git clone https://github.com/MaDoKaLiF/LawViser.git
 
 # Install dependencies
 pip install -r requirements.txt
