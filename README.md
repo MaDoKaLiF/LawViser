@@ -92,7 +92,7 @@ python main.py
 | Name | Role | GitHub |
 |------|------|--------|
 | 양인혜 | RAG System Developer | @1nhye |
-| 김형진 | Document Classification Developer | @MaDoKaLiF |
+| 김형진 | Team Lead, Document Classification Developer | @MaDoKaLiF |
 | 이준찬 | DataBase Administrator | @gamma4638 |
 | 장재인 | Language Model Engineer | @Jaein-Jang |
 | 최서영 | Project Manager | @choi613504 |
