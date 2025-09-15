@@ -91,7 +91,7 @@ python main.py
 ## 🙌 Team Members
 | Name | Role | GitHub |
 |------|------|--------|
-| 윤인혜 | RAG System Developer | @1nhye |
+| 양인혜 | RAG System Developer | @1nhye |
 | 김형진 | Document Classification Developer | @MaDoKaLiF |
 | 이준찬 | DataBase Administrator | @gamma4638 |
 | 장재인 | Language Model Engineer | @Jaein-Jang |
